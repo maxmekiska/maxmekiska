@@ -2,12 +2,9 @@ site_name: Qblog
 site_url: ""
 use_directory_urls: False
 
-
-
-
 theme:
         logo: assets/icon3.svg
-        favicon: assets/icon3.svg
+        favicon: assets/icon5.svg
         name: material
         palette:
                 primary: black
