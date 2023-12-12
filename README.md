@@ -14,7 +14,7 @@ I'm Max, a passionate engineer with a specific interest in machine learning.
 
 `fukkatsu` is a python library designed for experimental purposes, empowering code with the ability to mutate, self-repair and adapt during runtime as needed. This capability is achieved by harnessing the potential of large language models.
 
-[Code link](https://github.com/maxmekiska/fukkatsu) | [PyPi link](https://pypi.org/project/fukkatsu/) | [fukkatsu — Dynamic Software Improvement and Mutation using LLMs for Stochastic Synthetic Code Injections](https://medium.com/python-in-plain-english/fukkatsu-dynamic-software-improvement-and-mutation-using-llms-for-stochastic-synthetic-code-da2709338c3f)
+[Code link](https://github.com/maxmekiska/fukkatsu) | [PyPi link](https://pypi.org/project/fukkatsu/) | [fukkatsu — Dynamic Software Improvement and Mutation using LLMs for Stochastic Synthetic Code Injections](https://medium.com/@maxmekiska/fukkatsu-dynamic-software-improvement-and-mutation-using-llms-for-stochastic-synthetic-code-da2709338c3f?source=friends_link&sk=9bc01d1994af36a5a95d8e433f7f56c9)
 
 #### gpt-cli
 
